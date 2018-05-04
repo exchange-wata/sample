@@ -7,4 +7,7 @@
     echo "I can do it.";
 
     echo "うまくいけー";
+
+    echo "うまくいけー2";
+
  ?>
