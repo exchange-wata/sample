@@ -5,6 +5,4 @@
     echo "Cheer up!";
 
     echo "I can do it.";
-
-    echo "I made a samle branch.";
  ?>
