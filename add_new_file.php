@@ -5,4 +5,6 @@
     echo "Cheer up!";
 
     echo "I can do it.";
+
+    echo "うまくいけー";
  ?>
